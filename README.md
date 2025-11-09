@@ -17,3 +17,7 @@ This is a simple web project, deployment can be on any webserver or local file s
 ## How to contribute
 
 xxxxxxx
+
+## Copyright
+
+2025 Me
